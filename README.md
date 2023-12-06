@@ -1,3 +1,7 @@
+# Task Manager 
+
+<img width="705" alt="Screenshot 2023-12-06 at 17 23 02" src="https://github.com/mtsfreitas/task_manager/assets/21324690/1f898f2f-8540-4105-a275-535f2d311931">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,5 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-(Initialize project using Create React App)
